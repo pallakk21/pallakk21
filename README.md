@@ -1,3 +1,1 @@
-Hi, I’m Palak. I am an aspiring web developer focused on building full-stack web applications.
-wanderlust website :
-https://mongodbproject-production.up.railway.app/listings
+CSE'27 | Full-Stack Dev & ML Enthusiast | MERN Stack • Python • Flask | GSSoC'26 | SIH'24 | Open to Internships | 🔗 linktr.ee/palakk21
