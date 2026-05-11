@@ -1,6 +1,6 @@
 # Hi, I'm Palak 👋
 
-Aspiring Full-Stack Developer & ML Enthusiast | CSE'27
+Aspiring Full-Stack Developer & AI-ML Enthusiast | CSE'27
 ## 🚀 Projects
 
 ### 📚 [BookMania — ML Book Recommender](https://book-mania-4.onrender.com/)
