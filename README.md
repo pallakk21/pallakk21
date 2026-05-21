@@ -7,7 +7,7 @@ Aspiring Full-Stack Developer & AI-ML Enthusiast | CSE'27
 > Python • Flask • Scikit-learn • Collaborative Filtering
 ML-based book recommendation system with Top 50 Books page and personalized suggestions. Deployed on Render.
 
-### 🌍 [Wanderlust — Travel Platform](https://mongodbproject-production.up.railway.app/listings)
+### 🌍 [Wanderlust — Travel Platform](https://wanderlust-1l1q.onrender.com/listings)
 > Node.js • Express • MongoDB • Passport.js
 Full-stack travel listing marketplace with secure authentication and CRUD functionality. Deployed on Railway.
 
