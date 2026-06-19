@@ -11,9 +11,7 @@ ML-based book recommendation system with Top 50 Books page and personalized sugg
 > Node.js • Express • MongoDB • Passport.js
 Full-stack travel listing marketplace with secure authentication and CRUD functionality. Deployed on Railway.
 
-### 🛡️ Safe Walk — Women Safety App *(SIH 2024)*
-> JavaScript • Bootstrap • Geolocation API
-Distress-response app with real-time location tracking and SOS triggers. Built in a team of 6.
+
 
 ---
 
